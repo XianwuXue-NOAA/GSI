@@ -82,8 +82,6 @@ elif [ $target = acorn ]; then
 
 	export SIGIO_INC4=$SIGIO_INC
 	export SIGIO_LIB4=$SIGIO_LIB
-	export GFSIO_INC4=$GFSIO_INC
-	export GFSIO_LIB4=$GFSIO_LIB
 	export SFCIO_INC4=$SFCIO_INC
 	export SFCIO_LIB4=$SFCIO_LIB
 else 
